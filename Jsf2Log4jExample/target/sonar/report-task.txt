@@ -1,0 +1,6 @@
+projectKey=Jsf2Log4jExample:Jsf2Log4jExample
+serverUrl=http://localhost:9000
+serverVersion=6.7.7.38951
+dashboardUrl=http://localhost:9000/dashboard/index/Jsf2Log4jExample:Jsf2Log4jExample
+ceTaskId=AXsIncUYH3DC0kTzEa_q
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXsIncUYH3DC0kTzEa_q

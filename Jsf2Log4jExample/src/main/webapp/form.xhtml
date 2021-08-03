@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:h="http://java.sun.com/jsf/html">
+	
+	<h:body>
+	    <center><h2>Hesap Makinesi</h2></center>
+	    <h:form id="loginForm">
+	        
+	        
+	        
+	        <h:panelGrid  column="">
+sayi<h:inputText value="#{calculatorBean.number1}" />
+sayi<h:inputText value="#{calculatorBean.number2}" />
+sonuc:<h:outputText id="sonuc" value="#{calculatorBean.result}"/>
+
+<h:commandButton action="#{calculatorBean.addition}" value="Topla"/>
+<h:commandButton action="#{calculatorBean.subtraction}" value="Çıkarma"/>
+<h:commandButton action="#{calculatorBean.division}" value="Bölme"/>
+<h:commandButton action="#{calculatorBean.multiplication}" value="Çarpma"/>
+
+</h:panelGrid>
+	        
+	        
+	        
+	    </h:form>
+	</h:body>
+</html>
