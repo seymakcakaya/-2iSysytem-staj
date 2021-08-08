@@ -1,0 +1,48 @@
+2021-08-07 00:23:01.728 [main] DEBUG com.company.Tdd - 2 is a prime number
+2021-08-07 00:23:01.736 [main] DEBUG com.company.Tdd - 2 exists in fibonacci series
+2021-08-07 00:23:01.749 [main] DEBUG com.company.Tdd - 5 is a prime number
+2021-08-07 00:23:01.749 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
+2021-08-07 00:24:28.547 [main] DEBUG com.company.Tdd - 2 is a prime number
+2021-08-07 00:24:28.555 [main] DEBUG com.company.Tdd - 2 exists in fibonacci series
+2021-08-07 00:24:28.572 [main] DEBUG com.company.Tdd - 5 is a prime number
+2021-08-07 00:24:28.572 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
+2021-08-07 00:25:03.574 [main] DEBUG com.company.Tdd - 2 is a prime number
+2021-08-07 00:25:03.581 [main] DEBUG com.company.Tdd - 2 exists in fibonacci series
+2021-08-07 00:25:03.598 [main] DEBUG com.company.Tdd - 5 is a prime number
+2021-08-07 00:25:03.598 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
+2021-08-07 00:25:35.609 [main] DEBUG com.company.Tdd - 2 is a prime number
+2021-08-07 00:25:35.617 [main] DEBUG com.company.Tdd - 2 exists in fibonacci series
+2021-08-07 00:25:35.655 [main] DEBUG com.company.Tdd - 5 is a prime number
+2021-08-07 00:25:35.656 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
+2021-08-07 13:20:01.949 [main] DEBUG com.company.Tdd - 2 is a prime number
+2021-08-07 13:20:01.959 [main] DEBUG com.company.Tdd - 2 exists in fibonacci series
+2021-08-07 13:20:01.989 [main] DEBUG com.company.Tdd - 5 is a prime number
+2021-08-07 13:20:01.994 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
+2021-08-07 13:22:50.406 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
+2021-08-07 13:22:50.550 [main] DEBUG com.company.Tdd - 5 is a prime number
+2021-08-07 13:22:50.550 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
+2021-08-07 13:24:22.985 [main] DEBUG com.company.Tdd - 2 is a prime number
+2021-08-07 13:24:22.995 [main] DEBUG com.company.Tdd - 2 exists in fibonacci series
+2021-08-07 13:24:23.016 [main] DEBUG com.company.Tdd - 5 is a prime number
+2021-08-07 13:24:23.016 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
+2021-08-07 13:24:23.116 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
+2021-08-07 13:24:23.121 [main] DEBUG com.company.Tdd - 5 is a prime number
+2021-08-07 13:24:23.121 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
+2021-08-07 13:28:44.297 [main] DEBUG com.company.Tdd - -1 is not a prime number
+2021-08-07 13:28:44.335 [main] DEBUG com.company.Tdd - 5 is a prime number
+2021-08-07 13:28:44.336 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
+2021-08-07 13:28:44.359 [main] DEBUG com.company.Tdd - 0 is not a prime number
+2021-08-07 13:28:44.367 [main] DEBUG com.company.Tdd - 5 is a prime number
+2021-08-07 13:28:44.367 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
+2021-08-07 13:28:44.394 [main] DEBUG com.company.Tdd - 5 is a prime number
+2021-08-07 13:28:44.394 [main] DEBUG com.company.Tdd - 5 is a prime number
+2021-08-07 13:28:44.395 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
+2021-08-07 13:28:44.403 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
+2021-08-07 13:28:44.406 [main] DEBUG com.company.Tdd - 5 is a prime number
+2021-08-07 13:28:44.407 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
+2021-08-07 13:30:32.814 [main] DEBUG com.company.Tdd - -1 is not a prime number
+2021-08-07 13:30:32.860 [main] DEBUG com.company.Tdd - 0 is not a prime number
+2021-08-07 13:30:32.875 [main] DEBUG com.company.Tdd - 5 is a prime number
+2021-08-07 13:30:32.876 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
+2021-08-07 13:30:32.883 [main] DEBUG com.company.Tdd - 5 is a prime number
+2021-08-07 13:30:32.889 [main] DEBUG com.company.Tdd - 5 exists in fibonacci series
