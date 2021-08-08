@@ -1,0 +1,24 @@
+[INFO ] 2021-08-06 00:11:49.060 [main] Main - For döngüsü baþladý
+[DEBUG] 2021-08-06 00:11:49.062 [main] Main - 1 is not a prime number
+[DEBUG] 2021-08-06 00:11:49.063 [main] Main - 2 is a prime number
+[DEBUG] 2021-08-06 00:11:49.063 [main] Main - 2 exists in fibonacci series
+[INFO ] 2021-08-06 00:11:49.064 [main] Main - 2. döngüde
+[DEBUG] 2021-08-06 00:11:49.064 [main] Main - 3 is a prime number
+[DEBUG] 2021-08-06 00:11:49.064 [main] Main - 3 exists in fibonacci series
+[INFO ] 2021-08-06 00:11:49.065 [main] Main - 3. döngüde
+[DEBUG] 2021-08-06 00:11:49.067 [main] Main - 4 is a prime number
+[DEBUG] 2021-08-06 00:11:49.067 [main] Main - 5 is a prime number
+[DEBUG] 2021-08-06 00:11:49.068 [main] Main - 5 exists in fibonacci series
+[INFO ] 2021-08-06 00:11:49.068 [main] Main - 5. döngüde
+[DEBUG] 2021-08-06 00:11:49.069 [main] Main - 6 is a prime number
+[DEBUG] 2021-08-06 00:11:49.069 [main] Main - 7 is a prime number
+[DEBUG] 2021-08-06 00:11:49.069 [main] Main - 8 is a prime number
+[DEBUG] 2021-08-06 00:11:49.069 [main] Main - 9 is a prime number
+[DEBUG] 2021-08-06 00:11:49.070 [main] Main - 10 is a prime number
+[DEBUG] 2021-08-06 00:11:49.070 [main] Main - 11 is a prime number
+[DEBUG] 2021-08-06 00:11:49.070 [main] Main - 12 is a prime number
+[DEBUG] 2021-08-06 00:11:49.070 [main] Main - 13 is a prime number
+[DEBUG] 2021-08-06 00:11:49.071 [main] Main - 13 exists in fibonacci series
+[INFO ] 2021-08-06 00:11:49.071 [main] Main - 13. döngüde
+[DEBUG] 2021-08-06 00:11:49.071 [main] Main - 14 is a prime number
+[DEBUG] 2021-08-06 00:11:49.071 [main] Main - 15 is a prime number
