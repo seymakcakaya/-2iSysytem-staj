@@ -13,16 +13,11 @@ private static  final  String TOPIC="seymakcakaya";
 @Autowired
 private KafkaTemplate<String, String> kafkaTemplate;
 //private KafkaTemplate<String, String> kafkaTemplate;
-
-
 public  void writeMessage(String msg){
     this.kafkaTemplate.send(TOPIC,msg);
-
 }
 @Bean
 public NewTopic createTopic(){
-
     return new NewTopic(TOPIC,3,(short)1);
 }
-
 }
