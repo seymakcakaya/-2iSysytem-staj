@@ -8,18 +8,13 @@ import org.springframework.web.bind.annotation.RestController;
 public class KafkaController {
 
     private final KafkaProducer producer;
-
     private  KafkaController(KafkaProducer producer){
     this.producer  =producer;
     }
 
-
-
     @PostMapping("/publish")
     public void  writeMessageToTopic(@RequestParam("message")String message){
         this.producer.writeMessage(message);
-
-
     }
 
 
