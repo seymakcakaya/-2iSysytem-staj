@@ -17,9 +17,8 @@ private CalculatorManager calculator= new CalculatorManager();
 	int result=4;
 	int actual=(int) calculator.division(32, 8);
 	assertEquals(result, actual);
-	
-
-	}@Test
+	}
+	@Test
 	public void divTest2() {
 	int result=0;
 	int actual=(int) calculator.division(0, 8);
