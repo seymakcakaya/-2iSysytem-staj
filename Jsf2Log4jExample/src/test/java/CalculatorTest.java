@@ -11,18 +11,7 @@ private CalculatorManager calculator= new CalculatorManager();
 	int result=45;
 	int actual=(int) calculator.addition(32, 13);
 	assertEquals(result, actual);
-	
-
 	}
-	@Test
-	public void addTest2() {
-	int result=0;
-	int actual=(int) calculator.addition(10, -10);
-	assertEquals(result, actual);
-	
-
-	}
-
 	@Test
 	public void divTest() {
 	int result=4;
@@ -52,6 +41,14 @@ private CalculatorManager calculator= new CalculatorManager();
 	public void multTest() {
 	int result=-12;
 	int actual=(int) calculator.multiplication(12, -1);
+	assertEquals(result, actual);
+	
+
+	}
+	@Test
+	public void addTest2() {
+	int result=0;
+	int actual=(int) calculator.addition(10, -10);
 	assertEquals(result, actual);
 	
 
